@@ -1,0 +1,6 @@
+var myRevealingModule = (function(){
+
+	return {
+
+	};
+})();
